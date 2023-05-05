@@ -13,4 +13,6 @@ Fig 1: A schematic showing the two pathways taken for passive microwave retrieva
 <img src="https://user-images.githubusercontent.com/46690843/236521568-1fe10da0-1ea3-4c49-8d85-93e67e90cc4f.png" width=50% height=50%>
 Fig 2: Results for the GPM orbit #3498 on October 10, 2014. Brightness temperatures at 37 (a) and 166 (b) GHz, passive retrievals using regression (c) and classification (d) networks, ERA5 precipitation (e), and DPR active retrievals (f).
 
+The traning, validation and testing data sets can be downloaded atthe following google drive link.
+https://drive.google.com/file/d/116Avkt2rxE2hn24xGTqbgMPl59SM28gJ/view?usp=sharing
 
