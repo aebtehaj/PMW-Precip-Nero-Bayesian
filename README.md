@@ -4,7 +4,7 @@ This repository contains MATLAB files demonstrating the difference between recas
 The traning dataset can be downloaded at https://drive.google.com/file/d/116Avkt2rxE2hn24xGTqbgMPl59SM28gJ/view?usp=sharing
 
 
-Main results can be viewed at [link](https://htmlpreview.github.io/?https://github.com/aebtehaj/PMW-Precip-Nero-Bayesian/blob/main/MainDemoFile.html)
+Main results can be viewed at [Passive Microwave Retrievals of Precipitation: A Regression or a Classification Problem](https://htmlpreview.github.io/?https://github.com/aebtehaj/PMW-Precip-Nero-Bayesian/blob/main/MainDemoFile.html)
 
 ## Abstract
 This paper demonstrates that recasting the satellite passive microwave retrievals of precipitation through classification neural networks, with cross-entropy loss function can increase the precision in the detection of precipitation occurrence and phase, by more than 10%, compared to the commonly used regression-based networks that rely on the mean-squared loss function. Embedding a classic Bayesian estimator in the feature space of a neural network, equipped with the focal-loss function, we demonstrate that the network can learn the positively skewed distribution of precipitation for improved retrieval of its extreme rates in terms of the critical success index. To that end, the coincidences of passive and active observations from the precipitation radiometer and radar onboard the Global Precipitation Measuring satellite are used.
